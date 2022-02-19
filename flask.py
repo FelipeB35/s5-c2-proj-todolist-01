@@ -6,3 +6,6 @@ def home():
 app = Flask(__name__)
 
 @app.route("/")
+
+def test():
+    pass
